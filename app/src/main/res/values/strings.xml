@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fabritronix Task</string>
+    <string name="state">state</string>
+    <string name="type">type</string>
+    <string name="name">name</string>
+    <string name="label">label</string>
+    <string name="link">link</string>
+    <string name="link_display">Link :</string>
+    <string name="state_display">State :</string>
+    <string name="type_display">Type :</string>
+    <string name="name_display">Name :</string>
+    <string name="label_display">Label :</string>
+</resources>
